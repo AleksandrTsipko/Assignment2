@@ -56,7 +56,7 @@ int main()
 			break;
 		}
 	} while (exit != true);
-
+	return 0;
 	
 
 
